@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mostafa-Rawash
+- 💞️ I’m looking to collaborate on International com.
 - 👀 I’m interested in IOT , AI , full-stack and XR
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on International com.
 - 📫 How to reach me (+20)109-912-9550
                       mostafa@rawash.com
 

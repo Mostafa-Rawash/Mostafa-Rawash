@@ -1,5 +1,4 @@
-### Hi, I'm Mostafa 👋 — Technical Product Manager & Product Owner
-
+### Hi, I'm Mostafa 👋 — Technical Product + Engineering + AI/Automation
 Engineering-grounded PM: I ship product **and** the systems behind it. Currently
 Technical Product Manager at **eDariba** (fintech/tax-tech SaaS), where I own the
 roadmap, lead a small engineering team, and personally built the platform's
@@ -11,7 +10,7 @@ RAG-based customer support pipeline (LangGraph + Ollama + Qdrant).
 - 🛠️ Technical depth that de-risks roadmap decisions — full-stack (Python/Frappe, React, WordPress), DevOps (Docker/Kubernetes/CI-CD), and hands-on AI/RAG systems
 - 📊 Data-informed — SQL-based performance analysis driving roadmap prioritization
 
-**Selected work:** eDariba RAG pipeline · Qayedny AI product suite (5 services) · BeTrend (AI SaaS, grad project, team lead) · AutoFlow (personal SaaS prototype)
+**Focus:** SaaS · AI · Automation · Web Systems — **Selected work:** eDariba RAG pipeline · Qayedny AI product suite (5 services) · BeTrend (AI SaaS, grad project, team lead) · Handle (هندل) — personal SaaS, early release
 
 **Experience**
 - **Technical Product Manager** @ eDariba — fintech/tax-tech SaaS (Jan 2025 – present)
